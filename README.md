@@ -111,7 +111,7 @@ Visão Geral
   
 # 5. O produto final do projeto
 Dashboard online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através do link: https://wm-fome-zero.streamlit.app/
+O painel pode ser acessado através do link: https://will-moura-fome-zero.streamlit.app/
  
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas para ilustras as métricas que podem ser importantes para análises e tomadas de decisão.
